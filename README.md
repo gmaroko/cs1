@@ -1,1 +1,1 @@
-# this is my only documentation but its not ready for commit
+# this is my only documentation and now its ready for commit
